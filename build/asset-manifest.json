@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.45bc9779.css",
-    "main.js": "/static/js/main.74fd3b71.js",
-    "index.html": "/index.html",
-    "main.45bc9779.css.map": "/static/css/main.45bc9779.css.map",
-    "main.74fd3b71.js.map": "/static/js/main.74fd3b71.js.map"
+    "main.css": "/husen-new-site/static/css/main.2ae8ce40.css",
+    "main.js": "/husen-new-site/static/js/main.f12f2006.js",
+    "index.html": "/husen-new-site/index.html",
+    "main.2ae8ce40.css.map": "/husen-new-site/static/css/main.2ae8ce40.css.map",
+    "main.f12f2006.js.map": "/husen-new-site/static/js/main.f12f2006.js.map"
   },
   "entrypoints": [
-    "static/css/main.45bc9779.css",
-    "static/js/main.74fd3b71.js"
+    "static/css/main.2ae8ce40.css",
+    "static/js/main.f12f2006.js"
   ]
 }

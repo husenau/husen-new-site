@@ -1,6 +1,6 @@
 {
   "name": "hussain-portfolio",
-  "homepage": "https://husenau.github.io/husen-new-site/",
+  "homepage": "https://husenau.github.io/husen-new-site/build/index.html",
   "version": "1.0.0",
   "private": true,
   "dependencies": {

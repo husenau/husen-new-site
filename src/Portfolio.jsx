@@ -51,6 +51,11 @@ export default function Portfolio() {
         <h2 className="portfolio-section-title">Experience</h2>
         <div className="portfolio-experience-list">
           <div>
+            <h3 className="portfolio-experience-role">IT Consultant | Systems and Security Engineer</h3>
+            <p>On-hire contract, seconded to Forensicare as a Systems and Security Engineer.
+              Providing ICT operational support within a highly regulated Victorian Government environment, I acted as an escalation point for identity, access, and Microsoft 365 service requests and incidents, administering Active Directory and Microsoft Entra ID to manage user onboarding, access changes, and group memberships. I supported MFA and Conditional Access troubleshooting in line with security policies, assist with Exchange Online mailbox management, tenant hygiene, and service health monitoring, and review Microsoft 365 security and compliance configurations to reduce low-priority alert noise in Microsoft Defender. I also developed clear technical documentation and standard operating procedures to strengthen audit readiness, improve knowledge transfer, reduce unnecessary security alert volumes through policy refinement, and enhance overall support consistency.</p>
+          </div>          
+          <div>
             <h3 className="portfolio-experience-role">Information Technology Support Administrator</h3>
             <p>I provide casual ad hoc support for a small Family Day Care business by setting up and maintaining secure digital filing systems, managing Microsoft 365 accounts, and implementing data backup and device security measures to meet compliance requirements. I also provide ongoing IT support to staff and educators, including troubleshooting remote access, Wi-Fi, printing, and mobile devices, ensuring smooth daily operations with minimal disruptions.</p>
           </div>
